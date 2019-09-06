@@ -1,4 +1,4 @@
-import forEach from "./es8-functional";
+import forEach from "./lib/es8-functional";
 
 var array = [1, 2, 3];
 
